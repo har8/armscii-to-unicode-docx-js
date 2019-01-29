@@ -1,4 +1,3 @@
-# armscii-to-unicode-docx-js
 # Convert Armscii Word document to Unicode Word document (uniConv)
 
 ## Overview
